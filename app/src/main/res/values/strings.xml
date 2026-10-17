@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI אופליין מטורף</string>
+    <string name="tab_chat">שיחה חכמה</string>
+    <string name="tab_tools">כלי NLP</string>
+    <string name="tab_teach">אימון AI</string>
+    <string name="tab_game">משחק AI</string>
+    <string name="chat_hint">שאל אותי משהו, בקש שיר, חישוב, או בדיחה…</string>
+    <string name="send">שלח</string>
+    <string name="ai_welcome">שלום! אני בינה מלאכותית מקומית לחלוטין (100% אופליין ללא אינטרנט!). אני יודע לענות על שאלות, לפתור תרגילים, לנתח רגשות, לסכם טקסטים, לכתוב שירים וללמוד דברים חדשים שתלמד אותי. במה נוכל להתחיל?</string>
+</resources>
